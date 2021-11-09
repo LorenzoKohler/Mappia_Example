@@ -1,71 +1,71 @@
-X,Y,Visit,Priority,Region,Site Name,Site Name_,nom_Abrev,# Years sa,#Sample fo,#Sample _1,Master Lat,Master Lon,Master L_1,Master L_2,icon_url
--62.622,-64.688,Often,High,Errera Channel,Cuverville Island,Cuverville Island,Cuverville Isl.,"4","34",,"-64°41,15'","-62°37,19'",-64.688000000000002,-62.622000000000000,./0.png
--62.594,-64.734,Often,High,Errera Channel,Danco Island,Danco Island,Danco Isl.,"4","23",,"-64°44,02'","-62°35,38'",-64.733999999999995,-62.594000000000001,./0.png
--62.533,-64.838,Often,High,Gerlache Strait,"Neko Harbour, Andvord Bay",Neko Harbour,Neko Hbr.,"4","51",,"-64°50,18'","-62°31,58'",-64.837999999999994,-62.533000000000001,./0.png
--60.873,-64.156,Occasionally,High,Gerlache Strait,Cierva Cove,Cierva Cove,Cierva CV.,"4","26",,"-64°09,23'","-60°52,23'",-64.156000000000006,-60.872999999999998,./0.png
--62.9,-64.85,Often,High,Gerlache Strait,Paradise Harbour,Paradise Harbour,Paradise Hbr.,"4","15",,"-64°51,00'","-62°54,00'",-64.849999999999994,-62.899999999999999,./0.png
--62.16,-64.642,Often,High,Gerlache Strait,Wilhelmina Bay,Wilhelmina Bay,Wilhelmina b.,"4","15",,"-64°38,31'","-62°09,37'",-64.641999999999996,-62.159999999999997,./0.png
--64.142,-65.172,Often,High,Penola Strait,Petermann Island,Petermann Island,Petermann Isl.,"4","14",,-65°10.19',-64°08.31',-65.171999999999997,-64.141999999999996,./0.png
--56.873,-63.52,Rarely,High,Antarctic Sound/Erebus & Terror Gulf,Brown Bluff,Brown Bluff,B. Bluff,"3","5",,"-63°31,11'","-56°51,83'",-63.520000000000003,-56.872999999999998,./0.png
--62.532,-64.622,Occasionally,High,Errera Channel,Orne Harbour,Orne Harbour,Orne Hbr.,"3","18",,"-64°37,18'","-62°31,55'",-64.622000000000000,-62.531999999999996,./0.png
--62.883,-64.896,Often,High,Gerlache Strait,"Almirante Brown Base, Paradise Harbour",Almirante Brown Base,Almte. Brown B.,"3","13",,"-64°53,44'","-62°53,00'",-64.896000000000001,-62.883000000000003,./0.png
--61.98,-64.539,Occasionally,High,Gerlache Strait,Wilhelmina Bay/Foyn/Enterprise Island,Enterprise Island,Enterprise Isl.,"3","14",,"-64°32,19'","-61°59,59'",-64.539000000000001,-61.979999999999997,./0.png
--67.544,-66.971,Rarely,High,Loubet Coast,Hanusse Bay,Hanusse Bay,Hanusse b.,"2","2",,-66°58.15',-67°32.37',-66.971000000000004,-67.543999999999997,./0.png
--59.92,-62.59,Often,High,South Shetland Islands,Half Moon Island,Half Moon Island,Half Moon Isl.,"2","3",,"-62º35,24'","-59º55,13'",-62.590000000000003,-59.920000000000002,./0.png
--60.776,-63.896,Occasionally,High,Bransfield Strait,Mikkelsen Harbour,Mikkelsen Harbour,Mikkelsen Hbr.,"2","2",,"-63º53,47'","-60º46,34'",-63.896000000000001,-60.776000000000003,./0.png
--62.871,-64.717,Occasionally,High,Gerlache Strait,"Useful Island, Andvord Bay",Useful Island,Useful Isl.,"2","7",,"-64°43,01'","-62°52,16'",-64.716999999999999,-62.871000000000002,./0.png
--62.67,-64.81,,High,Gerlache Strait,Middle Andvord Bay,Andvord Bay,Andvord b.,"2","5",,-64°48.44',-62°40.87',-64.810000000000002,-62.670000000000002,./0.png
--56.466,-63.316,Rarely,Medium,Antarctic Sound/Erebus & Terror Gulf,Kinnes Cove/ Madder Cliffs,Kinnes Cove,King George's pt.,"1","1",,"-63º18,58'","-56º27,58'",-63.316000000000003,-56.466000000000001,./0.png
--54.692,-63.423,Rarely,Medium,Antarctic Sound/Erebus & Terror Gulf,"Heroina Island, Danger Islands",Heroina Island,Heroina Isl.,"1","1",,"-63º25,24'","-54º41,32'",-63.423000000000002,-54.692000000000000,./0.png
--55.702,-63.495,Rarely,Medium,Antarctic Sound/Erebus & Terror Gulf,Eden Rocks,Eden Rocks,E. Rocks,"1","1",,"-63º29,41'","-55º42,06'",-63.494999999999997,-55.701999999999998,./0.png
--61.759,-64.503,Rarely,Medium,Gerlache Strait,"Portal Point, Charlotte Bay",Portal Point,Portal pt.,"1","3",,"-64°30,10'",-61°45'32',-64.503000000000000,-61.759000000000000,./0.png
--66.716,-67.083,Rarely,Medium,Loubet Coast,Lallemand Fjord,Lallemand Fjord,Lallemand Fj.,"1","1",,"-67º04,59'",-66°42.58',-67.082999999999998,-66.715999999999994,./0.png
--66.997,-68.186,Rarely,Medium,Marguerite Bay,Stonington Island,Stonington Island,Stonington Isl.,"1","3",,"-68°11,10'","-66º59,49'",-68.186000000000007,-66.997000000000000,./0.png
--68.5,-68.5,Rarely,Medium,Marguerite Bay,Marguerite Bay,Marguerite Bay,Marguerite b.,"1","1",,"-68°30,00'",-68°30.00',-68.500000000000000,-68.500000000000000,./0.png
--64.046,-65.089,Often,Medium,Penola Strait,Pleneau Bay,Pleneau Bay,Pleneau b.,"1","1",,"-65º5,19'","-64º2,45'",-65.088999999999999,-64.046000000000006,./0.png
--61.633,-64.583,Occasionally,Medium,Gerlache Strait,Charlotte Bay,Charlotte Bay,Charlotte b.,"1","1",,"-64°34,59'","-61°37,59'",-64.582999999999998,-61.633000000000003,./0.png
--62.963,-64.312,Occasionally,Medium,"Schollaert Channel, Dallman Bay",Melchior Islands,Melchior Islands,Melchior Isl.,"1","1",,"-64°18,44'","-62°57,47'",-64.311999999999998,-62.963000000000001,./0.png
--67.43,-66.55,Rarely,Medium,Matha Strait,New position,Matha Strait,Matha St.,"1","1",,"-66°33,00'","-67º25,59'",-66.549999999999997,-67.430000000000007,./0.png
--59.769,-62.526,Occasionally,Medium,South Shetland Islands,"Yankee Harbour, Greenwich Island",Yankee Harbour,Yankee Hbr.,"1","1",,"-62°31,33'","-59°46,07'",-62.526000000000003,-59.768999999999998,./0.png
--58.859,-62.223,,Medium,South Shetland Islands,"Maxwell Bay, King George Island",Maxwell Bay,Maxwell b.,"1","1",,"-62º13,22'","-58º51,31'",-62.222999999999999,-58.859000000000002,./0.png
--57.366,-63.833,,Medium,Antarctic Sound/Erebus & Terror Gulf,Vega Island,Vega Island,Vega Isl.,"1","1",,"-63º49,59'","-57º21,58'",-63.832999999999998,-57.366000000000000,./0.png
--63.15,-64.533,,Medium,"Schollaert Channel, Dallman Bay",Fournier Bay,Fournier Bay,Fournier b.,"1","1",,"-64º31,59'","-63º09,00'",-64.533000000000001,-63.149999999999999,./0.png
--64.25,-54.78,,Low,Tierra del Fuego,de los Estados Island,Estados Island,de los Estados Isl.,"1","1",,"-54º47,00'","-64º15,00'",-54.780000000000001,-64.250000000000000,./0.png
--62.808,-64.867,Often,Low,Gerlache Strait,"Leith Cove, Paradise Harbour",Leith Cove,Leith CV.,"0",,,"-64°52,00'","-62°48,31'",-64.867000000000004,-62.808000000000000,./0.png
--62.862,-64.912,Often,Low,Gerlache Strait,"Skontorp Cove/Avalanche Glacier, Paradise Harbour",Skontorp Cove,Skontorp CV.,"0",,,"-64°54,42'","-62°51,44'",-64.912000000000006,-62.862000000000002,./0.png
--64.156,-65.242,Occasionally,Low,Penola Strait,Yalour Islands,Yalour Islands,Yalour Isl.,"0",,,"-65°14,31'","-64°09,21'",-65.242000000000004,-64.156000000000006,./0.png
--64.248,-65.25,Occasionally,Low,Penola Strait,"Vernadsky Station, Galindez Island",Vernadsky Station,Vernadsky STA.,"0",,,"-65º15,01'","-64°14,51'",-65.250000000000000,-64.248000000000005,./0.png
--62.682,-64.712,Often,Low,Errera Channel,"King Georges Point, Rongé Island",King Georges Point,King George's pt.,"0",,,"-64°42,42'","-62°40,54'",-64.712000000000003,-62.682000000000002,./0.png
--63.312,-65.04,Occasionally,Low,Gerlache Strait,Flandres Bay,Flandres Bay,Flandres b.,"0",,,"-65°02,25'","-63°18,44'",-65.040000000000006,-63.311999999999998,./0.png
--66.79,-66.87,Rarely,Low,Loubet Coast,Detaille Island,Detaille Island,Detaille Isl.,"0",,,"-66°52,12'","-66°47,24'",-66.870000000000005,-66.790000000000006,./0.png
--67.189,-67.836,Rarely,Low,Marguerite Bay,Horseshoe Island,Horseshoe Island,Horseshoe Isl.,"0",,,"-67°50,08'","-67°11,19'",-67.835999999999999,-67.188999999999993,./0.png
--63.493,-64.826,Often,Low,Neumayer Channel,Goudier Island,Goudier Island,Goudier Isl.,"0",,,"-64°49,32'","-63°29,36'",-64.825999999999993,-63.493000000000002,./0.png
--63.493,-64.827,Often,Low,Neumayer Channel,"Jougla Point, Wiencke Island",Jougla Point,Jougla pt.,"0",,,"-64°49,37'","-63°29,36'",-64.826999999999998,-63.493000000000002,./0.png
--63.52,-64.82,Often,Low,Neumayer Channel,"Damoy Point, Dorian Bay",Damoy Point,Damoy pt.,"0",,,"-64°49,11'","-63°31,12'",-64.819999999999993,-63.520000000000003,./0.png
--63.495,-64.854,Occasionally,Low,Neumayer Channel,Peltier Channel,Peltier Channel,Peltier Ch.,"0",,,"-64°51,15'","-63°29,43'",-64.853999999999999,-63.494999999999997,./0.png
--64.074,-64.773,Rarely,Low,Palmer Archipielago,"Torgersen Island, Anvers Island",Torgersen Island,Torgersen Isl.,"0",,,"-64°46,23'","-64°04,27'",-64.772999999999996,-64.073999999999998,./0.png
--64.053,-64.774,Rarely,Low,Palmer Archipielago,"Palmer Station, Anvers Island",Palmer Station,Palmer STA.,"0",,,"-64°46,27'","-64°3,9'",-64.774000000000001,-64.052999999999997,./0.png
--63.96,-65.081,Often,Low,Penola Strait,Lemaire Channel,Lemaire Channel,Lemaire Ch.,"0",,,"-65°04,53'","-63°57,37'",-65.081000000000003,-63.960000000000001,./0.png
--63.986,-65.065,Often,Low,Penola Strait,"Port Charcot, Booth Island",Port Charcot,P. Charcot,"0",,,"-65°03,54'","-64°59,10'",-65.064999999999998,-63.985999999999997,./0.png
--55.788,-63.58,Rarely,Low,Antarctic Sound/Erebus & Terror Gulf,Paulet Island,Paulet Island,Paulet Isl.,"0",,,"-63º34,48'","-55°47,17'",-63.579999999999998,-55.787999999999997,./0.png
--56.75,-64.283,Rarely,Low,Antarctic Sound/Erebus & Terror Gulf,Seymour Island,Seymour Island,Seymour Isl.,"0",,,"-64°16,59'","-56°45,00'",-64.283000000000001,-56.750000000000000,./0.png
--57.183,-64.466,Rarely,Low,Antarctic Sound/Erebus & Terror Gulf,Snow Hill Island,Snow Hill Island,Snow Hill Isl.,"0",,,"-64º27,58'","-57°10,59'",-64.465999999999994,-57.183000000000000,./0.png
--58.683,-63.316,Occasionally,Low,Bransfield Strait,Astrolabe Island,Astrolabe Island,Astrolabe Isl.,"0",,,"-63°18,58'","-58°40,59'",-63.316000000000003,-58.683000000000000,./0.png
--57.307,-63.197,Occasionally,Low,Bransfield Strait,Gourdin Island,Gourdin Island,Gourdin Isl.,"0",,,"-63°11,49'","-57°18,26'",-63.197000000000003,-57.307000000000002,./0.png
--57.9,-63.32,Occasionally,Low,Bransfield Strait,Bernardo O’Higgins Base,B. O'Higgins Base,O'Higgins B.,"0",,,"-63°19,15'","-57°53,59'",-63.320000000000000,-57.899999999999999,./0.png
--45.564,-60.647,Rarely,Low,South Orkney Islands,"Shingle Cove, Coronation Island",Shingle Cove,Shingle CV.,"0",,,"-60°38,48'","-45°33,52'",-60.646999999999998,-45.564000000000000,./0.png
--44.616,-60.733,Rarely,Low,South Orkney Islands,"Base Orcadas, Laurie Island",Base Orcadas,Orcadas B.,"0",,,"-60°43,59'","-44°36,58'",-60.732999999999997,-44.616000000000000,./0.png
--45.633,-60.716,Rarely,Low,South Orkney Islands,"Signy Base, Signy Island",Signy Base,Signy B.,"0",,,"-60°42,58'","-45°35,42'",-60.716000000000001,-45.633000000000003,./0.png
--60.5,-62.97,Occasionally,Low,South Shetland Islands,"Baily Head, Crimson Hill, Deception Island",Baily Head,Baily H.,"0",,,"-62°58,00'","-60°29,47'",-62.969999999999999,-60.500000000000000,./0.png
--60.562,-62.983,Often,Low,South Shetland Islands,"Whalers Bay, Deception Island",Whalers Bay,Whalers b.,"0",,,"-62°59,00'","-60°33,42'",-62.982999999999997,-60.561999999999998,./0.png
--60.663,-62.924,Often,Low,South Shetland Islands,"Telefon Bay, Deception Island",Telefon Bay,Telefon b.,"0",,,"-62°55,27'","-60°39,47'",-62.923999999999999,-60.662999999999997,./0.png
--60.6,-62.935,Occasionally,Low,South Shetland Islands,"Pendulum Cove, Deception Island",Pendulum Cove,Pendulum CV.,"0",,,"-62°56,08'","-60°35,59'",-62.935000000000002,-60.600000000000001,./0.png
--59.776,-62.381,Often,Low,South Shetland Islands,Aitcho Islands (Cecilia Island and Barrientos Island),Aitcho Islands,Aitcho Isl.,"0",,,"-62°24,46'","-59°43,43'",-62.381000000000000,-59.776000000000003,./0.png
--54.87,-61.1,Occasionally,Low,South Shetland Islands,"Point Wild, near Endurance Glacier, Elephant Island",Point Wild,Point Wild,"0",,,"-61°06,00'","-54°52,00'",-61.100000000000001,-54.869999999999997,./0.png
--60.5,-62.6,Occasionally,Low,South Shetland Islands,"Hannah Point & Walker Bay, Livingston Island",Livingston Island,Livingston Isl.,"0",,,"-62°36,00'","-60°30,00'",-62.600000000000001,-60.500000000000000,./0.png
--57.951,-62.088,Occasionally,Low,South Shetland Islands,"Turret Point, King George Island",Turret Point,Turret pt.,"0",,,"-62°05,18'","-57°57,02'",-62.088000000000001,-57.951000000000001,./0.png
--58.471,-62.157,Occasionally,Low,South Shetland Islands,"Arctowski, King George Island",Arctowski,Arctowski CV.,"0",,,"-62°09,26'","-58°28,16'",-62.156999999999996,-58.470999999999997,./0.png
--58.948,-62.182,Occasionally,Low,South Shetland Islands,"Great Wall/Frei/Bellingshausen Stations, Fildes Peninsula, King George Island",Fildes Peninsula,Fildes PEN.,"0",,,"-62°10,56'","-58°56,53'",-62.182000000000002,-58.948000000000000,./0.png
--57.926,-62.102,Occasionally,Low,South Shetland Islands,Penguin Island,Penguin Island,Penguin Isl.,"0",,,"-62°06,09'","-57º55,33'",-62.101999999999997,-57.926000000000002,./0.png
--59.5,-62.4,Occasionally,Low,South Shetland Islands,"Robert Point, Robert Island",Robert Island,Robert Isl.,"0",,,"-62°24,00'","-59°30,00'",-62.399999999999999,-59.500000000000000,./0.png
-0,0,,,,,,,,"267",,,,,,./0.png
+X,Y,Priority,Site Name_,# Years sa,Master L_1,Master L_2,icon_url
+-62.622,-64.688,High,Cuverville Island,,,-64.688000000000002,./0.png
+-62.594,-64.734,High,Danco Island,,,,./0.png
+-62.533,-64.838,High,Neko Harbour,,,,./0.png
+-60.873,-64.156,Occasionally,Cierva Cove,,-60.000000000000000,2.000000000000000,./0.png
+-62.9,-64.85,0.872999999999998./0.png                                                                          Often,Paradise Harbour,,,,./0.png
+-62.16,-64.642,-64.849999999999994     -62.899999999999999./0.png                                                                          Often,Wilhelmina Bay,,,,./0.png
+-64.142,-65.172,-64.641999999999996     -62.159999999999997./0.png,Penola Strait,"0",-65.000000000000000,,./0.png
+-56.873,-63.52,-65.171999999999997     -64.141999999999,Antarctic Sound/Erebus & Terror Gulf,,,,./0.png
+-62.532,-64.622,"-56°51,83'",Errera Channel,,,,./0.png
+-62.883,-64.896,"-62°31,55'",Gerlache S,"0",,,./0.png
+-61.98,-64.539,"-62°53,00'",High,,,,./0.png
+-67.544,-66.971,"-64°32,19'",High,,,,./0.png
+-59.92,-62.59,-66°58.15',High,,,,./0.png
+-60.776,-63.896,"-62º35,24'",Occasionally,,,0.000000000000000,./0.png
+-62.871,-64.717,"2",-63.896000000000001     -60.776000000000003./0.png                                                                          Occasionally,,,,./0.png
+-62.67,-64.81,2         7,-64.716999999999999     -62.871000000000002./0.png,,,,./0.png
+-56.466,-63.316,2         5,-64.810000000000002     -62.670000000000002./0.png,,0.000000000000000,0.000000000000000,./0.png
+-54.692,-63.423,1         1,",58'                                                                                                                                                                                                                                                        -6",,,,./0.png
+-55.702,-63.495,Heroina Isl.,"-54º41,32'",,,,./0.png
+-61.759,-64.503,E. Rocks,"-55º42,06'",,0.000000000000000,0.000000000000000,./0.png
+-66.716,-67.083,Portal pt.,-61°45'32',"0",,,./0.png
+-66.997,-68.186,Lallemand Fjord,"-67º04,59'",,,,./0.png
+-68.5,-68.5,Stonington Island,"-68°11,10'",,0.000000000000000,,./0.png
+-64.046,-65.089,Marguerite Bay,"-68°30,00'",,,,./0.png
+-61.633,-64.583,Pleneau Bay,1         1,,,,./0.png
+-62.963,-64.312,Charlotte Bay,1         1,,,,./0.png
+-67.43,-66.55,Melchior Islands,1         1,,,,./0.png
+-59.769,-62.526,Matha Strait,Matha St.,,,,./0.png
+-58.859,-62.223,South Shetland Islands,Yankee Hbr.,,,,./0.png
+-57.366,-63.833,South Shetland Islands,Maxwell b.,,,,./0.png
+-63.15,-64.533,ium                                                                                                                                                                                                                                                        Ant,a Island                                                                                                                                                                                                                                                   Veg,"1",-63.832999999999998,-57.366000000000000,./0.png
+-64.25,-54.78,Medium,Fournier Bay,,,,./0.png
+-62.808,-64.867,Low,Estados Island,,,,./0.png
+-62.862,-64.912,Low,ise Harbour                                                                                                                                                                                                                                  Leith Cove,,,,./0.png
+-64.156,-65.242,Often,"Skontorp Cove/Avalanche Glacier, Paradise Harbour",,,,./0.png
+-64.248,-65.25,-64.912000000000006     -62.862000000000002./0.png                                                                          Occasionally,Yalour Islands,,,,./0.png
+-62.682,-64.712,-65.242000000000004     -64.156000000000006./0.png                                                                          Occasionally,"Vernadsky Station, Galindez Isl",,,,./0.png
+-63.312,-65.04,-65.250000000000000     -64.248000000000005./0.png,Errera Channel,,,,./0.png
+-66.79,-66.87,"-62°40,54'",Gerlache Strait,,,,./0.png
+-67.189,-67.836,"-63°18,44'",Loubet Coast,,,,./0.png
+-63.493,-64.826,"-66°47,24'",Low,,,0.000000000000000,./0.png
+-63.493,-64.827,"-67°11,19'",Low,,,,./0.png
+-63.52,-64.82,"-64°49,32'",Low,,,,./0.png
+-63.495,-64.854,"-64°49,37'",Often,,0.000000000000000,,./0.png
+-64.074,-64.773,"-64°49,11'",-63.520000000000003./0.png                                                                          Occasionally,,,,./0.png
+-64.053,-64.774,0**********,-64.853999999999999     -63.494999999999997./0.png                                                                          Rarely,,,,./0.png
+-63.96,-65.081,0**********,-64.772999999999996     -64.073999999999998./0.png,"0",0.000000000000000,,./0.png
+-63.986,-65.065,0**********,-64.774000000000001     -64.052999999,,,,./0.png
+-55.788,-63.58,Lemaire Ch.,"-63°57,37'",,,,./0.png
+-56.75,-64.283,P. Charcot,"-64°59,10'",,,,./0.png
+-57.183,-64.466,Paulet Isl.,"-55°47,17'",,,,./0.png
+-58.683,-63.316,Seymour Island,"-64°16,59'",,,,./0.png
+-57.307,-63.197,Snow Hill Island,"-64º27,58'",,,,./0.png
+-57.9,-63.32,Astrolabe Island,"-63°18,58'",,,0.000000000000000,./0.png
+-45.564,-60.647,land                                                                                                                                                                                                                                                Gourdin Is,**********,,,,./0.png
+-44.616,-60.733,Bernardo O’Higgins Base,0**********,,,,./0.png
+-45.633,-60.716,"Shingle Cove, Coronation Island",0**********,,,0.000000000000000,./0.png
+-60.5,-62.97,"Base Orcadas, Laurie Isl",0**********,"0",,,./0.png
+-60.562,-62.983,South Orkney Islands,Signy B.,,,,./0.png
+-60.663,-62.924,South Shetland Islands,Baily H.,,0.000000000000000,,./0.png
+-60.6,-62.935,South Shetland Islands,Whalers b.,,9999999998.000000000000000,,./0.png
+-59.776,-62.381,Low,Telefon Bay,,,0.000000000000000,./0.png
+-54.87,-61.1,Low,Pendulum Cove,,,,./0.png
+-60.5,-62.6,Low,)                                                                                                                                                                                                         Aitcho Islands,,,,./0.png
+-57.951,-62.088,Occasionally,"Point Wild, near Endurance Glacier, Elephant Island",,,-54.000000000000000,./0.png
+-58.471,-62.157,001     -54.869999999999997./0.png                                                                          Occasionally,"Hannah Point & Walker Bay, Livingston Island",,,,./0.png
+-58.948,-62.182,-62.600000000000001     -60.500000000000000./0.png                                                                          Occasionally,"Turret Point, King George Island",,,,./0.png
+-57.926,-62.102,-62.088000000000001     -57.951000000000001./0.png,South Shetland Islands,,-62.000000000000000,0.000000000000000,./0.png
+-59.5,-62.4,-62.156999999999996     -58.47,South Shetland Islands,,,,./0.png
+0,0,"-58°56,53'",South Shetland Islands,,,,./0.png
